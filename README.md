@@ -24,4 +24,6 @@ Theme provided in [Lovelace](https://github.com/morpheusthewhite/spicetify-theme
 
 ![Playlist](https://i.imgur.com/d0a3vwG.png)
 
+**Don't forget to set a proper name of the folder in which you put the theme files**
+
 Author: [bBSempai](https://github.com/bbsempai)
